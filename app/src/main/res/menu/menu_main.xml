@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ejerciciogrupal.MainActivity">
+    <item
+        android:id="@+id/opcion1"
+        android:orderInCategory="100"
+        android:title="@string/opcion_menu1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion2"
+        android:orderInCategory="100"
+        android:title="@string/opcion_menu2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion3"
+        android:orderInCategory="100"
+        android:title="@string/opcion_menu3"
+        app:showAsAction="never" />
+</menu>

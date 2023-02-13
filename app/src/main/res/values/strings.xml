@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Este mundo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Este mundo</string>
+    <string name="second_fragment_label">Este mundo</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="opcion_menu1">Opción1</string>
+    <string name="opcion_menu2">Opción2</string>
+    <string name="opcion_menu3">Opción3</string>
+    <string name="mensaje_1">Se seleccionó la primera opción</string>
+    <string name="mensaje_2">Se seleccionó la segunda opción</string>
+    <string name="mensaje_3">Se seleccionó la tercera opción</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
