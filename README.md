@@ -9,3 +9,4 @@
 <p align="center"><img src ="https://github.com/raul-tenorio/ejerciciosAndroid/blob/ejercicio44/app/src/assets/pantalla%20principal.png" width="400"/></p>
 
 - Se configura varíos elementos, entre estos el nombre de la app "app_name" en la carpeta `res/value`
+<p align="center"><img src ="https://github.com/raul-tenorio/ejerciciosAndroid/blob/ejercicio44/app/src/assets/variables.png" width="400"/></p>
