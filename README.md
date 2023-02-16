@@ -13,5 +13,5 @@ Disponer 9 botones en forma de un tablero de TaTeTi. Utilizar un TableLayout, tr
 3) Ahora seleccionamos los nueve botones y fijamos la propiedad 'layout_height' con el valor 'match_parent' para que se estiren ocupando todo el espacio de la fila, También estando seleccionado los nueve botones fijamos la propiedad 'layout_weight' con 1
 ![image](https://user-images.githubusercontent.com/66330281/219248019-214ba1ed-552c-471d-84cd-582c756f3b14.png)
 
-<b>De esta forma no importa que tan grande sea el dispositivo, los botones se redimensionan y ocupan todo el espacio</b>
+<b>De esta forma no importa que tan grande sea el dispositivo, los botones se redimensionan y ocupan todo el espacio.</b><br>
 ![image](https://user-images.githubusercontent.com/66330281/219248118-2abbada1-dc7a-4d75-9428-e82476b79b4d.png)
