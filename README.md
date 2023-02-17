@@ -2,3 +2,4 @@
 - Bryan Tandazo
 - Raúl Tenorio
 - Miguel CUenca
+- Dastin Chávez
