@@ -3,3 +3,4 @@
 - Raúl Tenorio
 - Miguel CUenca
 - Dastin Chávez
+- Adrian Chicaiza
