@@ -1,7 +1,11 @@
-# EJERCICIO_34
+# EJERCICIO 34
 ### Dibujar un óvalo que ocupe toda la pantalla y un circulo en su interior
 
-1. Como primer paso, dentro de la clase "MainActivity", se implementó la logica que se muestra a continuación:
+## Desarrollo
+
+### Archivo MainActivity
+
+Pasos:
 
   Se creó el método onCreate para ocultar la barra del título y la barra superior de la aplicación
   
