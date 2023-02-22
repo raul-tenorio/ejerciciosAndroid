@@ -4,3 +4,4 @@
 - Miguel CUenca
 - Dastin Chávez
 - Adrian Chicaiza
+- María José Chalá
