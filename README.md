@@ -32,8 +32,6 @@ Pasos:
   ![image](https://user-images.githubusercontent.com/74751902/220551980-b5d298a8-dc35-41c6-8a1e-360207ba171d.png)
   
 
-2. El resultado se muestra a continuación: 
-
 
 
 <p align="right"><b>Elaborado por:</b> Majo</p>
